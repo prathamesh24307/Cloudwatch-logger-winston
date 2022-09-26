@@ -20,6 +20,6 @@
   "dependencies": {
     "@types/node": "^14.0.1",
     "winston": "^3.2.1",
-    "winston-cloudwatch": "^2.3.2"
+    "winston-cloudwatch": "^6.1.1"
   }
 }
